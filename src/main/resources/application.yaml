@@ -1,0 +1,7 @@
+spring:
+ application:
+  name: CourseEnrollmentApplication
+  
+Server:
+ port: 8090
+
